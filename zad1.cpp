@@ -1,3 +1,26 @@
+/*
+*****Sprawozdanie SPD Laboratorium*****
+Michal Dos 
+nr indeksu: 263498
+
+Termin oddania: 13.03.2024r.
+
+Cwiczenie 1
+
+Wyniki dzialania programu dla:
+    data1 - 14950
+    data2 - 20198
+    data3 - 34509
+    data4 - 35155
+
+suma calkowita 105532
+
+Sugerowana ocena 3.5
+
+*/
+
+
+
 #include <iostream>
 #include <fstream>
 
